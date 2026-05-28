@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+python-dotenv
+sqlalchemy
+duckdb
+langchain
+langgraph
+openai
+pydantic
